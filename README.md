@@ -1,0 +1,1 @@
+Created a Python Savings Calculator that helps users calculate future savings based on monthly contributions and interest rates. The project demonstrates basic Python programming, financial calculations, and Git/GitHub version control.
